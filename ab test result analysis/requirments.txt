@@ -1,0 +1,12 @@
+pandas
+seaborn
+numpy
+math
+datetime
+timedelta
+matplotlib.pyplot
+plotly  
+graph_objects
+plotly.express
+cipy.stats
+stats
